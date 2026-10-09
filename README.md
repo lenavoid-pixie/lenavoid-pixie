@@ -15,7 +15,7 @@ that streams a Garmin watch's heart rate to a PC over WebSocket, so the PC needs
 hardware at all. Useful when your desktop has no radio, or you're nowhere near it and Tailscale is
 carrying the signal.
 
-*More coming. A rally game from 2001 is currently being taken apart.*
+*More coming. A rally game from 2000 is currently being taken apart.*
 
 ## How I work
 
